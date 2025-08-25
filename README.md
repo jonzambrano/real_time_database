@@ -18,11 +18,13 @@ Aplicación Android para monitoreo y control en tiempo real de sensores IoT util
 ### Interfaz de Usuario
 
 <img width="380" height="802" alt="Captura de pantalla 2025-08-25 183310" src="https://github.com/user-attachments/assets/fad5603b-697e-4e0f-a885-ad5af8a3f3bf" />
+
 *Interfaz de la aplicación en funcionamiento*
 
 ### Firebase Console - Realtime Database
 
 <img width="935" height="365" alt="Captura de pantalla 2025-08-25 183452" src="https://github.com/user-attachments/assets/a775b078-f96d-401b-b1c7-3f1de62a08ed" />
+
 *Vista de la estructura de datos en Firebase Console*
 
 
